@@ -1,0 +1,22 @@
+{
+  "experiment": "cbam",
+  "classes": [
+    "angry",
+    "disgust",
+    "fear",
+    "happy",
+    "neutral",
+    "sad",
+    "surprise"
+  ],
+  "best_epoch": 20,
+  "validation_accuracy": 0.6161616161616161,
+  "test_accuracy": 0.6210643633324046,
+  "macro_precision": 0.5974227159583061,
+  "macro_recall": 0.5973868441020187,
+  "macro_f1": 0.5953529321747454,
+  "train_images": 25838,
+  "validation_images": 2871,
+  "test_images": 7178,
+  "checkpoint": "D:\\VISIONX\\models\\mobilenetv1_cbam_fair.pth"
+}

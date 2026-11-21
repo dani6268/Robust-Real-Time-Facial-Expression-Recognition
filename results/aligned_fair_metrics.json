@@ -1,0 +1,22 @@
+{
+  "experiment": "aligned",
+  "classes": [
+    "angry",
+    "disgust",
+    "fear",
+    "happy",
+    "neutral",
+    "sad",
+    "surprise"
+  ],
+  "best_epoch": 20,
+  "validation_accuracy": 0.5768025078369906,
+  "test_accuracy": 0.5734187796043466,
+  "macro_precision": 0.5495422904896856,
+  "macro_recall": 0.5354262442126665,
+  "macro_f1": 0.5349796930146832,
+  "train_images": 25838,
+  "validation_images": 2871,
+  "test_images": 7178,
+  "checkpoint": "D:\\VISIONX\\models\\mobilenetv1_aligned_fair.pth"
+}

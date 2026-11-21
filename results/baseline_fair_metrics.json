@@ -1,0 +1,22 @@
+{
+  "experiment": "baseline",
+  "classes": [
+    "angry",
+    "disgust",
+    "fear",
+    "happy",
+    "neutral",
+    "sad",
+    "surprise"
+  ],
+  "best_epoch": 20,
+  "validation_accuracy": 0.587251828631139,
+  "test_accuracy": 0.5773195876288659,
+  "macro_precision": 0.5651860856212536,
+  "macro_recall": 0.539519019433595,
+  "macro_f1": 0.5460053329629305,
+  "train_images": 25838,
+  "validation_images": 2871,
+  "test_images": 7178,
+  "checkpoint": "D:\\VISIONX\\models\\mobilenetv1_baseline_fair.pth"
+}

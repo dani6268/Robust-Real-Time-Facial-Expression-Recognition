@@ -1,0 +1,17 @@
+MobileNetV2 Baseline Results
+
+Best Epoch: 20
+Test Accuracy: 83.47%
+Test Macro F1: 0.8231
+
+              precision    recall  f1-score   support
+
+       angry       0.75      0.83      0.79      1015
+        fear       0.78      0.69      0.73       974
+       happy       0.96      0.89      0.93      1844
+         sad       0.77      0.83      0.80      1256
+    surprise       0.85      0.90      0.88       823
+
+    accuracy                           0.83      5912
+   macro avg       0.82      0.83      0.82      5912
+weighted avg       0.84      0.83      0.84      5912

@@ -1,0 +1,22 @@
+{
+  "experiment": "clahe",
+  "classes": [
+    "angry",
+    "disgust",
+    "fear",
+    "happy",
+    "neutral",
+    "sad",
+    "surprise"
+  ],
+  "best_epoch": 20,
+  "validation_accuracy": 0.5862068965517241,
+  "test_accuracy": 0.5828921705210365,
+  "macro_precision": 0.5617723509983082,
+  "macro_recall": 0.5457083516726504,
+  "macro_f1": 0.5486906964116228,
+  "train_images": 25838,
+  "validation_images": 2871,
+  "test_images": 7178,
+  "checkpoint": "D:\\VISIONX\\models\\mobilenetv1_clahe_fair.pth"
+}

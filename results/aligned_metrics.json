@@ -1,0 +1,22 @@
+{
+  "model": "MobileNetV1_aligned",
+  "classes": [
+    "angry",
+    "disgust",
+    "fear",
+    "happy",
+    "neutral",
+    "sad",
+    "surprise"
+  ],
+  "best_epoch": 18,
+  "validation_accuracy": 0.5691396725879484,
+  "test_accuracy": 0.5594873223739203,
+  "macro_precision": 0.5325984185737279,
+  "macro_recall": 0.5314144705126765,
+  "macro_f1": 0.5302925705165118,
+  "train_images": 25838,
+  "validation_images": 2871,
+  "test_images": 7178,
+  "checkpoint": "D:\\VISIONX\\models\\mobilenetv1_aligned_best.pth"
+}

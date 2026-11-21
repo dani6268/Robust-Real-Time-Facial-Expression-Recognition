@@ -1,0 +1,25 @@
+{
+    "model": "MobileNetV1CBAM",
+    "preprocessing": [
+        "face alignment via pre-aligned dataset",
+        "CLAHE",
+        "synthetic occlusion augmentation during training"
+    ],
+    "best_epoch": 33,
+    "validation_accuracy": 0.6391501219087427,
+    "test_accuracy": 0.6283087210922262,
+    "macro_precision": 0.6084678632274546,
+    "macro_recall": 0.596588446766756,
+    "macro_f1": 0.6002941357964297,
+    "num_classes": 7,
+    "classes": [
+        "angry",
+        "disgust",
+        "fear",
+        "happy",
+        "neutral",
+        "sad",
+        "surprise"
+    ],
+    "test_images": 7178
+}

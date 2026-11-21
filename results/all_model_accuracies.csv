@@ -1,0 +1,8 @@
+Model,Test Accuracy (%)
+Baseline MobileNet-V1,57.73
+MobileNet-V1 + CLAHE,58.29
+MobileNet-V1 + Face Alignment,57.34
+MobileNet-V1 + CBAM,62.11
+Combined MobileNet-V1,63.04
+Baseline MobileNet-V2,67.5
+MobileNet-V2 + CLAHE + Alignment + Occlusion + CBAM,65.23
